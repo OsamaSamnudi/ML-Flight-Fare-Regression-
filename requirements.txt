@@ -1,0 +1,9 @@
+category_encoders
+Flask
+flask_cors
+numpy
+pandas
+plotly
+scikit_learn
+streamlit
+xgboost
